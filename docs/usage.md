@@ -12,3 +12,4 @@ Notes and usage details for go-pattern-examples.
 - add a note about the defaults
 - link the usage section
 - add a note about the defaults
+- link the usage section
